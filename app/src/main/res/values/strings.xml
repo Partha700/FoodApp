@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="preference_file_name">Shared Preferences</string>
+    <string name="next">Next</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="made_by_partha">Made By: Partha</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="food_app">Food App</string>
+
+</resources>
